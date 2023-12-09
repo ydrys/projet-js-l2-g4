@@ -1,0 +1,45 @@
+{
+    "questions": [
+      {
+        "question": "What does this code return? (0 || '' || false || 'Hi')",
+        "options": [
+          {"value": "false", "label": "0"},
+          {"value": "true", "label": "'Hi'"},
+          {"value": "false", "label": "false"},
+          {"value": "false", "label": "''"}
+        ],
+        "correctAnswer": "true"
+      },
+      {
+        "question": "What is it called when a function calls itself?",
+        "options": [
+          {"value": "false", "label": "Inception"},
+          {"value": "false", "label": "Self-Referential"},
+          {"value": "true", "label": "Recursion"},
+          {"value": "false", "label": "Who Cares"}
+        ],
+        "correctAnswer": "true"
+      },
+      {
+        "question": "idriss est un ",
+        "options": [
+          {"value": "false", "label": "dalm"},
+          {"value": "false", "label": "fr"},
+          {"value": "true", "label": "dz"},
+          {"value": "false", "label": "esp"}
+        ],
+        "correctAnswer": "true"
+      },
+      {
+        "question": "How do you access the value of the data-count data attribute in JavaScript?",
+        "options": [
+          {"value": "true", "label": "element.dataset.count"},
+          {"value": "false", "label": "element.dataAttribute.count"},
+          {"value": "false", "label": "element.dataset.dataCount"},
+          {"value": "false", "label": "element.dataCount"}
+        ],
+        "correctAnswer": "true"
+      }
+    ]
+  }
+  
